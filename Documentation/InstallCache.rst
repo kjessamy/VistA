@@ -4,6 +4,7 @@
 .. role:: usertype
     :class: usertype
 
+
 The following instructions were adapted from Nancy Anthracite\'s document entitled InstallingVistAWithSingleUserVersionCache5.2, which was created to guide a user through installing InterSystems Caché onto a Windows operating system. The instructions were using an older version of Caché; this uses the most recent trial version and shows the most recent Management Portal interface.
 
 Trial versions of the Caché installer can be downloaded from http://download.intersystems.com/download/register.csp. This installation guide uses Caché 2011.1. If you already have a Caché installation and are looking to install VistA as an additional database, you do not have to re-install Caché. Please use your existing installation and pick up the instructions at the point where the folder is created within the mgr folder.
