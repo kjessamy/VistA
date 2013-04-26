@@ -17,6 +17,7 @@
 """
   Utilitity Class to access VistA Menus System
 """
+
 class VistAMenuUtil(object):
   def __init__(self, duz):
     self._duz = duz
